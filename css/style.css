@@ -96,6 +96,29 @@ a {
 	left: 0;
 }
 
+h1,h2,p,a{
+		font-family: sans-serif;
+		font-weight: normal;
+	}
+ 
+	.jam-digital-malasngoding {
+		overflow: hidden;
+		width: 330px;
+		margin: 20px auto;
+		border: 5px solid #efefef;
+	}
+	.kotak{
+		float: left;
+		width: 110px;
+		height: 100px;
+		background-color: #065FA0;
+	}
+	.jam-digital-malasngoding p {
+		color: #fff;
+		font-size: 36px;
+		text-align: center;
+		margin-top: 30px;
+	}
 
 @media (max-width: 768px){
 	.mobile-menu {
@@ -155,6 +178,7 @@ a {
 .detail{
 	border:0px solid #065FA0;
 }
+
 
 
 footer {
