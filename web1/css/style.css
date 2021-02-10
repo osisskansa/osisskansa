@@ -177,9 +177,23 @@ h1,h2,p,a{
 }
 .detail{
 	border:0px solid #065FA0;
+
+
 }
 
-
+ table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px;
+}
+th {
+    background-color: #065FA0;
+    color: white;
+}
 
 footer {
 	background-color: #3F4346 ;
